@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "浏览器密码获取", "浏览器密码获取\浏览器密码获取.vcxproj", "{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Debug|x64.ActiveCfg = Debug|x64
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Debug|x64.Build.0 = Debug|x64
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Debug|x86.Build.0 = Debug|Win32
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Debug|x86.Deploy.0 = Debug|Win32
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Release|x64.ActiveCfg = Release|x64
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Release|x64.Build.0 = Release|x64
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Release|x86.ActiveCfg = Release|Win32
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Release|x86.Build.0 = Release|Win32
+		{04F5FC4E-EF83-4705-9DB3-E1E94F8923AA}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54EF0A17-5304-4C5D-933D-BFD3A75189BD}
+	EndGlobalSection
+EndGlobal
